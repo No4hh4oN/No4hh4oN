@@ -1,11 +1,13 @@
 <div align="left">
-  장준익 Chang Junik
+  <h1>장준익 Chang Junik</h1>
 </div>
 <div align="left">
-  삼육대학교 컴퓨터공학과 20학번
+  <h2>삼육대학교 컴퓨터공학과 20학번</h2>
   🦁멋쟁이사자처럼 12기 프론트엔드🦁
 </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact)
+
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
