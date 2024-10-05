@@ -7,7 +7,7 @@
 <div align="left">
   <h5>삼육대학교 컴퓨터공학과 20학번<br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
 </div>
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h1 align="left">✨ Tech Stack ✨</h1>
 <div align="left">
   <h4>Front</h4>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
