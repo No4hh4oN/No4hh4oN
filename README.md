@@ -1,11 +1,15 @@
-# 장준익 Chank Junik
+<div align="center">
+  장준익 Chang Junik
+</div>
 ---
-
-## 삼육대학교 컴퓨터공학과 20학번
-
-🦁멋쟁이사자처럼 12기 프론트엔드🦁
+<div align="center">
+  삼육대학교 컴퓨터공학과 20학번
+  🦁멋쟁이사자처럼 12기 프론트엔드🦁
+</div>
 ---
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
 ---
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
