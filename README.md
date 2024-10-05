@@ -2,6 +2,9 @@
   <h1>장준익 Chang Junik</h1>
 </div>
 <div align="left">
+  <h1>Education<br></h1>
+</div>
+<div align="left">
   <h5>삼육대학교 컴퓨터공학과 20학번<br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
 </div>
 <h3 align="left">✨ Tech Stack ✨</h3>
