@@ -5,7 +5,9 @@
   <h1>Education<br></h1>
 </div>
 <div align="left">
-  <h5>삼육대학교 컴퓨터공학과 20학번<br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
+  <h5>삼육대학교 컴퓨터공학과 20학번<br />🦁멋쟁이사자처럼 13기 프론트엔드 운영진🦁</h5>
+  <br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
+  
 </div>
 <h1 align="left">✨ Tech Stack ✨</h1>
 <div align="left">
