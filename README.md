@@ -31,5 +31,5 @@
 <div align="left">
 
 ![No4h's GitHub stats](https://github-readme-stats.vercel.app/api?username=No4hh4oN&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
 </div>
