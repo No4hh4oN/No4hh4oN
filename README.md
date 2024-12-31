@@ -30,7 +30,7 @@
 <br />
 <div align="left">
   
-  /*![No4h's GitHub stats](https://github-readme-stats.vercel.app/api?username=No4hh4oN&theme=dark&show_icons=true)*/
+  ![No4h's GitHub stats](https://github-readme-stats.vercel.app/api?username=No4hh4oN&theme=dark&show_icons=true)
   <br />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
 </div>
