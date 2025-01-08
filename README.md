@@ -28,6 +28,21 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 <br />
+### 🏆 Awards
+<table align="left">
+  <tr>
+    <th>When</th>
+    <th>Where</th>
+    <th>Project Name</th>
+    <th>Award</th>
+  </tr>
+  <tr>
+    <td>2024.05-16</td>
+    <td>교내 SW경진대회</td>
+    <td>WAD(What are you doing?)</td>
+    <td>우수상(3위)</td>
+  </tr>
+</table>
 <div align="left">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
