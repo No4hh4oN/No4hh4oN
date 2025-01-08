@@ -29,7 +29,7 @@
 </div>
 <br />
 <div align="left">
-🏆 Awards
+<h1 align="left">🏆 Awards</h1>
 <table align="left">
   <tr>
     <th>When</th>
