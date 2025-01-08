@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 <br />
-### 🏆 Awards
+🏆 Awards
 <table align="left">
   <tr>
     <th>When</th>
@@ -43,6 +43,7 @@
     <td>우수상(3위)</td>
   </tr>
 </table>
+<br />
 <div align="left">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
