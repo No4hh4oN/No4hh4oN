@@ -42,7 +42,7 @@
     <th>Award</th>
   </tr>
   <tr>
-    <td>2024.05-16</td>
+    <td>2024.05.16</td>
     <td>교내 SW경진대회</td>
     <td>WAD(What are you doing?)</td>
     <td>우수상(3위)</td>
