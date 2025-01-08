@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 <br />
+<div>
 🏆 Awards
 <table align="left">
   <tr>
@@ -43,6 +44,7 @@
     <td>우수상(3위)</td>
   </tr>
 </table>
+</div>
 <br />
 <div align="left">
   
