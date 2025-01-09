@@ -33,7 +33,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
 </div>
 <div align="left">
-<h1 align="left">🏆 Awards</h1>
+<h1 align="left">Awards</h1>
 <table align="left">
   <tr>
     <th>When</th>
