@@ -29,6 +29,7 @@
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
       </div>
     </div>
     <div>
