@@ -16,7 +16,6 @@
   <!-- Left Side: Front, Back, Tools -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div>
-      <h4>Front</h4>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" alt="JavaScript">
@@ -25,17 +24,17 @@
       </div>
     </div>
     <div>
-      <h4>Back</h4>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
       </div>
     </div>
     <div>
-      <h4>Tools</h4>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
       </div>
     </div>
   </div>
