@@ -1,7 +1,7 @@
 ## 장준익 Chang Junik
 
 <div align="left">
-  <h5>삼육대학교 💻컴퓨터공학과 20학번
+  <h5>🏫삼육대학교 컴퓨터공학과 20학번 🏫
   <br />💻 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정 (...ing) 💻
   <br />🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (...ing) 🦁
   <br />🦁 멋쟁이사자처럼 12기 프론트엔드🦁 </h5>
@@ -10,7 +10,6 @@
 ## 🔨 Once I've used 🔨
 
 <div style="display:flex; flex-direction:row;">
-  <!-- Left Side: Front, Back, Tools -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
