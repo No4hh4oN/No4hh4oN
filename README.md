@@ -10,7 +10,7 @@
   
 </div>
 <h1 align="left">Tech Stack</h1>
-<div style="display: flex;  align-items: flex-start;">
+<div style="display: flex; flex-direction:row;  align-items: flex-start;">
 <div>
 <div align="left">
   <h4>Front</h4>
