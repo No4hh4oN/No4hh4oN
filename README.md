@@ -45,7 +45,7 @@
 </div>
 <div align="left">
 
-## 🏆 Awards 🏆
+## 🏆 Contest 🏆
 <table align="left">
   <tr>
     <th>When</th>
@@ -58,6 +58,18 @@
     <td>교내 SW경진대회</td>
     <td>WAD(What are you doing?)</td>
     <td>우수상(3위)</td>
+  </tr>
+  <tr>
+    <td>2024.08.07</td>
+    <td>멋대 12기 중앙 해커톤</td>
+    <td>COSLOW</td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>2024.11.23</td>
+    <td>간지톤 : PYTHON</td>
+    <td>APT(아빠 버전2)</td>
+    <td> - </td>
   </tr>
 </table>
 </div>
