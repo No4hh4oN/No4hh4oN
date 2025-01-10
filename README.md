@@ -10,7 +10,6 @@
 </div>
 
 ## 🔨 Once I've used 🔨
-
 <div style="display:flex; flex-direction:row;">
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div>
@@ -44,7 +43,8 @@
   </div>
 </div>
 <div align="left">
-  ## 🏆 Competition Experience 🏆
+  
+## 🏆 Competition Experience 🏆
   <table align="left">
     <tr>
       <th>When</th>
