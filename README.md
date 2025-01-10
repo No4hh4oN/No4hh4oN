@@ -10,7 +10,7 @@
   
 </div>
 ## 🔨 Once I've used 🔨
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 40px;">
+<div style="display:flex; flex-direction:row;">
   <!-- Left Side: Front, Back, Tools -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div>
