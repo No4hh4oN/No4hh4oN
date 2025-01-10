@@ -10,7 +10,8 @@
   
 </div>
 <h1 align="left">Tech Stack</h1>
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex;  align-items: flex-start;">
+<div>
 <div align="left">
   <h4>Front</h4>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
-<br />
+</div>
 <div align="left">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight)
