@@ -1,14 +1,10 @@
-<div align="left">
-  <h1>장준익 Chang Junik</h1>
-</div>
-<div align="left">
-  <h1>Education<br></h1>
-</div>
+## 장준익 Chang Junik
+
 <div align="left">
   <h5>삼육대학교 컴퓨터공학과 20학번<br />🦁멋쟁이사자처럼 13기 프론트엔드 운영진🦁
   <br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
-  
 </div>
+<br />
 
 ## 🔨 Once I've used 🔨
 
@@ -34,11 +30,12 @@
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
       </div>
     </div>
   </div>
+  </br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight" alt="Top Languages">
   </div>
