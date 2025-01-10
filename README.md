@@ -41,7 +41,8 @@
   </div>
 </div>
 <div align="left">
-<h1 align="left">Awards</h1>
+
+## 🏆 Awards 🏆
 <table align="left">
   <tr>
     <th>When</th>
