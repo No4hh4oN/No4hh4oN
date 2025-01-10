@@ -3,9 +3,9 @@
 <div align="left">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
   <h5>
-  💻 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정 (~ 2025.09)
-  <br />🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (~ 2025.12)
-  <br />🦁 멋쟁이사자처럼 12기 프론트엔드 (~ 2024.12)
+    💻 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정 (~ 2025.09)
+    <br />🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (~ 2025.12)
+    <br />🦁 멋쟁이사자처럼 12기 프론트엔드 (~ 2024.12)
   </h5>
 </div>
 
@@ -44,32 +44,31 @@
   </div>
 </div>
 <div align="left">
-
-## 🏆 Competition Experience 🏆
-<table align="left">
-  <tr>
-    <th>When</th>
-    <th>Where</th>
-    <th>Project Name</th>
-    <th>Award</th>
-  </tr>
-  <tr>
-    <td>2024.05.16</td>
-    <td>교내 SW경진대회</td>
-    <td>WAD(What are you doing?)</td>
-    <td>우수상(3위)</td>
-  </tr>
-  <tr>
-    <td>2024.08.07</td>
-    <td>멋대 12기 중앙 해커톤</td>
-    <td>COSLOW</td>
-    <td> - </td>
-  </tr>
-  <tr>
-    <td>2024.11.23</td>
-    <td>간지톤 : PYTHON</td>
-    <td>APT(아빠 버전2)</td>
-    <td> - </td>
-  </tr>
-</table>
+  ## 🏆 Competition Experience 🏆
+  <table align="left">
+    <tr>
+      <th>When</th>
+      <th>Where</th>
+      <th>Project Name</th>
+      <th>Award</th>
+    </tr>
+    <tr>
+      <td>2024.05.16</td>
+      <td>교내 SW경진대회</td>
+      <td>WAD(What are you doing?)</td>
+      <td>우수상(3위)</td>
+    </tr>
+    <tr>
+      <td>2024.08.07</td>
+      <td>멋대 12기 중앙 해커톤</td>
+      <td>COSLOW</td>
+      <td> - </td>
+    </tr>
+    <tr>
+      <td>2024.11.23</td>
+      <td>간지톤 : PYTHON</td>
+      <td>APT(아빠 버전2)</td>
+      <td> - </td>
+    </tr>
+  </table>
 </div>
