@@ -9,10 +9,8 @@
   <br />🦁멋쟁이사자처럼 12기 프론트엔드🦁</h5>
   
 </div>
-<h1 align="left">Tech Stack</h1>
-
+## 🔨 Once I've used 🔨
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 40px;">
-
   <!-- Left Side: Front, Back, Tools -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div>
@@ -27,13 +25,14 @@
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
       </div>
     </div>
     <div>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
       </div>
     </div>
@@ -41,7 +40,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight" alt="Top Languages">
   </div>
-
 </div>
 <div align="left">
 <h1 align="left">Awards</h1>
