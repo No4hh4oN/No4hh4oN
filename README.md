@@ -38,7 +38,6 @@
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode">
       </div>
     </div>
-
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight" alt="Top Languages">
