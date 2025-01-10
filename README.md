@@ -1,4 +1,4 @@
-## 장준익 Chang Junik
+# 장준익 Chang Junik
 
 <div align="left">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
@@ -45,7 +45,7 @@
 </div>
 <div align="left">
 
-## 🏆 Contest 🏆
+## 🏆 Competition Experience 🏆
 <table align="left">
   <tr>
     <th>When</th>
