@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Oracle-4479A1.svg?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/firebase-CB3E20?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-4479A1.svg?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/firebase-F3702A?style=for-the-badge&logo=firebase&logoColor=white">
   <br />
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
