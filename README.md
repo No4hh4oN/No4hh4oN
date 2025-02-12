@@ -8,7 +8,7 @@
     <br />🦁 멋쟁이사자처럼 12기 프론트엔드 (~ 2024.12)
   </h5>
 </div>
-
+<br />
 <div align="left"> 
   
   ## 🚀 Projects
@@ -22,10 +22,10 @@
   - **P-EETING** : 2025-1 프리랜서 개발자 및 디자이너들에게 기업과 협업 기회 및 프로젝트 참여 기회 제공 사이트 – 프론트엔드, 백엔드, 디자인
   - **멋사 13기 모집 페이지** : 2025-1 13기 아기사자(부원) 모집을 위한 페이지 – 프론트엔드 참여
 </div>
-
+<br />
 <div align="left"> 
   
-## 🏆 Competition Experience 🏆
+## 🏆 Competition Experience
   <table align="left">
     <tr>
       <th>When</th>
@@ -54,7 +54,7 @@
   </table>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <div align="left"> 
 
