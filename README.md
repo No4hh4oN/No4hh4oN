@@ -38,8 +38,20 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
-<div align="left">
+<div align="left"> 
+  ## 🚀 Projects
   
+  - **MySNS**: 2023-2 기초 CRUD기능을 활용한 단순 SNS 커뮤니티 웹서비스 - 프론트엔드, 백엔드
+  - **SYU-SandKiosk**: 2023-2 c#을 이용한 키오스크 만들기(샌드위치가게 키오스크) - 프론트, 백엔드, 디자인
+  - **키워줘! 삼콩**: 2024-1 코틀린을 이용한 다마고치게임 - 프론트, 백엔드, 디자인
+  - **W.A.D**:  2024-1 교내 SW경진대회(못난이사자들) - 개발 초보자를 위한 ChatGpt기반 커뮤니티 사이트 - 프론트엔드
+  - **COSLOW**: 2024-1.5 멋사 해커톤-저속노화 식단 챌린지 - MZ세대의 트렌드인 '챌린지' 방식을 도입하여, 건강한 식단을 통해 저속노화를 실현 - 프론트엔드
+  - **RISEUP**: 2024-2 RISEUP(학교 축제 홍보 페이지) - 프론트엔드
+  - **APT** :  2024-2 간지톤(파이어베이스를 이용한 관심사 기반 AI 제공 활동 서비스 및 다이어리 기능) - MZ 아빠와의 즐거운 놀이 시작 “ 아빠투 “ – 프론트엔드, 백엔드
+  - **P-EETING** : 2025-1 프리랜서 개발자 및 디자이너들에게 기업과 협업 기회 및 프로젝트 참여 기회 제공 사이트 – 프론트엔드, 백엔드, 디자인
+  - **멋사 13기 모집 페이지** : 2025-1 13기 아기사자(부원) 모집을 위한 페이지 – 프론트엔드 참여
+</div>
+<div align="left"> 
 ## 🏆 Competition Experience 🏆
   <table align="left">
     <tr>
