@@ -59,32 +59,32 @@
 ### **4. W.A.D** 💬  
 - **개요**: 2024-1 교내 SW 경진대회(못난이사자들) - ChatGPT 기반 개발 초보자 커뮤니티 웹서비스  
 - **역할**: 프론트엔드  
-- **링크**: [W.A.D 웹사이트](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
+- **링크**: [W.A.D](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
 
 ### **5. COSLOW** 🥗  
 - **개요**: 2024-1.5 멋사 해커톤 - 저속노화 식단 챌린지 (MZ세대의 트렌드 '챌린지' 방식을 도입)  
 - **역할**: 프론트엔드  
-- **링크**: [COSLOW 웹사이트](https://coslow-n1wllud5k-no4hs-projects.vercel.app/)
+- **링크**: [COSLOW](https://coslow-n1wllud5k-no4hs-projects.vercel.app/)
 
 ### **6. RISEUP** 🎉  
 - **개요**: 2024-2 학교 축제 홍보 페이지  
 - **역할**: 프론트엔드  
-- **링크**: [RISEUP 웹사이트](https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/)
+- **링크**: [RISEUP](https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/)
 
 ### **7. APT** 📱  
 - **개요**: 2024-2 간지톤 - 파이어베이스를 이용한 관심사 기반 AI 제공 활동 서비스 및 다이어리 기능  
 - **역할**: 프론트엔드, 백엔드  
-- **링크**: [APT 웹사이트](https://apt-28s6ff0mb-no4hs-projects.vercel.app/)
+- **링크**: [APT](https://apt-28s6ff0mb-no4hs-projects.vercel.app/)
 
 ### **8. P-EETING** 🤝  
 - **개요**: 2025-1 프리랜서 개발자 및 디자이너를 위한 협업 기회 제공 웹서비스  
 - **역할**: 프론트엔드, 백엔드, 디자인  
-- **링크**: [P-EETING 웹사이트](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
+- **링크**: [P-EETING](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
 
 ### **9. 멋사 13기 모집 페이지** 🦁  
 - **개요**: 2025-1 멋쟁이사자처럼 13기 아기사자 모집 웹서비스  
 - **역할**: 프론트엔드  
-- **링크**: [멋사 웹사이트](https://syu-likelion.org/)
+- **링크**: [멋사](https://syu-likelion.org/)
 
 </div>
 <br />
