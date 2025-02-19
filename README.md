@@ -43,21 +43,48 @@
 <div align="left"> 
   
   ## 🚀 Projects
-  - **MySNS**: 2023-2 기초 CRUD기능을 활용한 단순 SNS 커뮤니티 웹서비스 - 프론트엔드, 백엔드
-  - **SYU-SandKiosk**: 2023-2 c#을 이용한 키오스크 만들기(샌드위치가게 키오스크) - 프론트, 백엔드, 디자인
-  - **키워줘! 삼콩**: 2024-1 코틀린을 이용한 다마고치게임 - 프론트, 백엔드, 디자인
-  - **W.A.D**:  2024-1 교내 SW경진대회(못난이사자들) - 개발 초보자를 위한 ChatGpt기반 커뮤니티 웹서비스 - 프론트엔드
-      https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/
-  - **COSLOW**: 2024-1.5 멋사 해커톤-저속노화 식단 챌린지 - MZ세대의 트렌드인 '챌린지' 방식을 도입하여, 건강한 식단을 통해 저속노화를 실현 - 프론트엔드
-      https://coslow-n1wllud5k-no4hs-projects.vercel.app/
-  - **RISEUP**: 2024-2 RISEUP(학교 축제 홍보 페이지) - 프론트엔드
-      https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/
-  - **APT** :  2024-2 간지톤(파이어베이스를 이용한 관심사 기반 AI 제공 활동 서비스 및 다이어리 기능) - MZ 아빠와의 즐거운 놀이 시작 “ 아빠투 “ – 프론트엔드, 백엔드
-      https://apt-28s6ff0mb-no4hs-projects.vercel.app/
-  - **P-EETING** : 2025-1 프리랜서 개발자 및 디자이너들에게 기업과 협업 기회 및 프로젝트 참여 기회 제공 웹서비스 – 프론트엔드, 백엔드, 디자인
-      https://peeting-5f69fb087-no4hs-projects.vercel.app/
-  - **멋사 13기 모집 페이지** : 2025-1 멋쟁이사자처럼 13기 아기사자(부원) 모집을 위한 웹서비스 – 프론트엔드 참여
-      https://syu-likelion.org/
+
+### **1. MySNS**  
+- **개요**: 2023-2 기초 CRUD 기능을 활용한 단순 SNS 커뮤니티 웹서비스  
+- **역할**: 프론트엔드, 백엔드
+
+### **2. SYU-SandKiosk**  
+- **개요**: 2023-2 C#을 이용한 샌드위치 가게 키오스크  
+- **역할**: 프론트엔드, 백엔드, 디자인
+
+### **3. 키워줘! 삼콩**  
+- **개요**: 2024-1 코틀린을 이용한 다마고치 게임  
+- **역할**: 프론트엔드, 백엔드, 디자인
+
+### **4. W.A.D**  
+- **개요**: 2024-1 교내 SW 경진대회(못난이사자들) - ChatGPT 기반 개발 초보자 커뮤니티 웹서비스  
+- **역할**: 프론트엔드  
+- **링크**: [W.A.D 웹사이트](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
+
+### **5. COSLOW**  
+- **개요**: 2024-1.5 멋사 해커톤 - 저속노화 식단 챌린지 (MZ세대의 트렌드 '챌린지' 방식을 도입)  
+- **역할**: 프론트엔드  
+- **링크**: [COSLOW 웹사이트](https://coslow-n1wllud5k-no4hs-projects.vercel.app/)
+
+### **6. RISEUP**  
+- **개요**: 2024-2 학교 축제 홍보 페이지  
+- **역할**: 프론트엔드  
+- **링크**: [RISEUP 웹사이트](https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/)
+
+### **7. APT**  
+- **개요**: 2024-2 간지톤 - 파이어베이스를 이용한 관심사 기반 AI 제공 활동 서비스 및 다이어리 기능  
+- **역할**: 프론트엔드, 백엔드  
+- **링크**: [APT 웹사이트](https://apt-28s6ff0mb-no4hs-projects.vercel.app/)
+
+### **8. P-EETING**  
+- **개요**: 2025-1 프리랜서 개발자 및 디자이너를 위한 협업 기회 제공 웹서비스  
+- **역할**: 프론트엔드, 백엔드, 디자인  
+- **링크**: [P-EETING 웹사이트](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
+
+### **9. 멋사 13기 모집 페이지**  
+- **개요**: 2025-1 멋쟁이사자처럼 13기 아기사자 모집 웹서비스  
+- **역할**: 프론트엔드  
+- **링크**: [멋사 웹사이트](https://syu-likelion.org/)
 </div>
 <br />
 <div align="left"> 
