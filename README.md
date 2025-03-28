@@ -34,26 +34,26 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div>
-<!-- </br>
+</br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No4hh4oN&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
- -->
+
 <br />
 <div align="left"> 
   
   ## 🚀 Projects
 
 ### **1. MySNS** 🌐  
-- **개요**: 2023-2 기초 CRUD 기능을 활용한 단순 SNS 커뮤니티 웹서비스  
+- **개요**: 2023-2 기초 CRUD 기능을 활용한 단순 SNS 커뮤니티 웹서비스
 - **역할**: 프론트엔드, 백엔드
 
 ### **2. SYU-SandwichKiosk** 🍔  
-- **개요**: 2023-2 C#을 이용한 샌드위치 가게 키오스크  
+- **개요**: 2023-2 C#을 이용한 샌드위치 가게 키오스크
 - **역할**: 프론트엔드, 백엔드, 디자인
 
 ### **3. 키워줘! 삼콩** 🐣  
-- **개요**: 2024-1 코틀린을 이용한 다마고치 게임  
+- **개요**: 2024-1 코틀린을 이용한 다마고치 게임
 - **역할**: 프론트엔드, 백엔드, 디자인
 
 ### **4. W.A.D** 💬  
@@ -84,7 +84,7 @@
 ### **9. 멋사 13기 모집 페이지** 🦁  
 - **개요**: 2025-1 멋쟁이사자처럼 13기 아기사자 모집 웹서비스  
 - **역할**: 프론트엔드  
-- **링크**: [멋사](https://syu-likelion.org/)
+- **링크**: [멋사 13기 모집 페이지](https://syu-likelion.org/)
 
 </div>
 <br />
