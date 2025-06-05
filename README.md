@@ -1,4 +1,5 @@
 # 장준익 Chang Junik (a.k.a. Noah)
+Email : no4h1209@gmail.com
 
 <div align="left">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
