@@ -4,7 +4,6 @@ Email : no4h1209@gmail.com
 <div align="left">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
   <h5>
-    💻 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정 (~ 2025.09)
     <br />🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (~ 2025.12)
     <br />🦁 멋쟁이사자처럼 12기 프론트엔드 (~ 2024.12)
   </h5>
@@ -99,7 +98,7 @@ Email : no4h1209@gmail.com
 ### **8. BriefLog** 🎙️
 - **개요**: 2025-1 회의 녹음 및 AI 기반 회의 요약, 녹취록 생성 어플
 - **역할**: 백엔드, 디자인
-- **링크**: 제작중 <!-- [멋사 13기 모집 페이지](https://syu-likelion.org/) -->
+- **링크**: [BriefLog](https://brief-log-frontend.vercel.app/)
 
 </div>
 <br />
