@@ -1,7 +1,7 @@
 # 장준익 Chang Junik (a.k.a. Noah)
 Email : no4h1209@gmail.com
 
-<div align="left">
+<div align="center">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
   <h5>
     <br />🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (~ 2025.12)
@@ -9,7 +9,7 @@ Email : no4h1209@gmail.com
   </h5>
 </div>
 
-<div align="left"> 
+<div align="center"> 
 
 ## 🔨 Once I've used
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -42,7 +42,7 @@ Email : no4h1209@gmail.com
 </div> -->
 
 <br />
-<div align="left"> 
+<div align="center"> 
   
   ## 🚀 Projects
 <!--
