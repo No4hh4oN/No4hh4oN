@@ -42,7 +42,7 @@ Email : no4h1209@gmail.com
 </div> -->
 
 <br />
-<div align="center"> 
+<div align="left"> 
   
   ## 🚀 Projects
 <!--
@@ -102,7 +102,7 @@ Email : no4h1209@gmail.com
 
 </div>
 <br />
-<div align="left"> 
+<div align="center"> 
   
 ## 🏆 Competition Experience
   <table align="left">
