@@ -105,7 +105,7 @@ Email : no4h1209@gmail.com
 <div align="center"> 
   
 ## 🏆 Competition Experience
-  <table align="left">
+  <table align="center">
     <tr>
       <th>When</th>
       <th>Where</th>
