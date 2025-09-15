@@ -1,6 +1,12 @@
-# 장준익 Chang Junik (a.k.a. Noah)
-Email : no4h1209@gmail.com
+<div align="center">
+  
+# 장준익 (Chang Junik) — **Noah**
+**Frontend Developer | React · Next.js · TypeScript**
 
+[![Gmail Badge](https://img.shields.io/badge/no4h1209@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:no4h1209@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-No4hh4oN-181717?style=flat&logo=github&logoColor=white)](https://github.com/No4hh4oN)
+
+</div>
 <div align="center">
   <h3>🏫삼육대학교 컴퓨터공학과 20학번 🏫 </h3>
   <h5>
@@ -100,6 +106,19 @@ Email : no4h1209@gmail.com
 - **역할**: 백엔드, 디자인
 - **링크**: [BriefLog](https://brief-log-frontend.vercel.app/)
 
+### **9. MEDICON**
+- **개요**: 2025-2 웹 브라우저만으로 의료 영상(CT, MRI, X-ray 등)을 신속하게 조회하고 분석
+- **역할**: 프론트, 기획·디자인
+- **링크**: [BriefLog](https://brief-log-frontend.vercel.app/)
+ 
+### **10. 촌스레**
+- **개요**: 2025-2 촌캉스(시골 감성 여행) 코스를 탐색·생성·편집할 수 있는 큐레이션 플랫폼
+- **역할**: 프론트엔드
+- **링크**: [촌스레](https://chonsre.vercel.app/)
+
+### **11. PeakTime**
+- **개요**: 2025-2 학교 축제 페이지
+- **역할**: 프론트엔드
 </div>
 <br />
 <div align="center"> 
