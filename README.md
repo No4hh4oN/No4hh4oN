@@ -62,8 +62,8 @@
 | **Th!nkTr!p** 🧳 | 생성형 AI 여행 추천 서비스 | Frontend, 디자인 (PM) | [링크](https://thinktrip.site/) |
 | **BriefLog** 🎙️ | 회의 녹음 및 AI 요약 어플 | Backend, 디자인 | [링크](https://brief-log-frontend.vercel.app/) |
 | **MEDICON** | 의료 영상 조회/분석 서비스 | Frontend, 기획·디자인 | [링크](https://github.com/orgs/pj-2025-med/repositories) |
-| **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [링크](https://chonsre.vercel.app/) |
-| **PeakTime** | 학교 축제 페이지 | Frontend | - |
+| **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [링크](https://www.chonsre.org/) |
+| **PeakTime** | 학교 축제 페이지 | Frontend | [링크](https://github.com/No4hh4oN/Peaktime) |
 
 </div>
 
