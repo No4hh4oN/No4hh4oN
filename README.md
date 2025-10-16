@@ -1,10 +1,11 @@
 <div align="center">
 
-# 장준익 (Chang Junik) — **Noah**
+# 장준익 (Chang Junik) — **Noah**  
 **Frontend Developer | React · JavaScript**
 
 [![Gmail Badge](https://img.shields.io/badge/no4h1209@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:no4h1209@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-No4hh4oN-181717?style=flat&logo=github&logoColor=white)](https://github.com/No4hh4oN)
+[![Velog Badge](https://img.shields.io/badge/Velog-no4hh4on-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@no4hh4on/posts)
 
 </div>
 
