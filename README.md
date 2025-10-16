@@ -65,6 +65,7 @@
 | **MEDICON** | 의료 영상 조회/분석 서비스 | Frontend, 기획·디자인 | [링크](https://github.com/orgs/pj-2025-med/repositories) |
 | **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [링크](https://www.chonsre.org/) |
 | **PeakTime** | 학교 축제 페이지 | Frontend | [링크](https://github.com/No4hh4oN/Peaktime) |
+| **잡담** | 사회초년생 사회생활 도우미 | Frontend | [링크](https://www.jobdam.pro/) |
 
 </div>
 
