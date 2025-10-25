@@ -64,7 +64,7 @@
 | **BriefLog** 🎙️ | 회의 녹음 및 AI 요약 어플 | Backend, 디자인 | [서비스](https://brief-log-frontend.vercel.app/) | [영상](https://drive.google.com/file/d/1-HMKZGJKrzzMFQRVfCwt98nkup7zixPL/view?usp=drive_link) |
 | **MEDICON** | 의료 영상 조회/분석 서비스 | Frontend, 기획·디자인 | [GitHub](https://github.com/orgs/pj-2025-med/repositories) | - |
 | **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [서비스](https://www.chonsre.org/) | - |
-| **PeakTime** | 학교 축제 페이지 | Frontend | [GitHub](https://github.com/No4hh4oN/Peaktime) | - |
+| **PeakTime** | 학교 축제 페이지 | Frontend | [서비스](https://www.syu-festival.site/) | - |
 | **잡담** | 사회초년생 사회생활 도우미 | Frontend | [서비스](https://www.jobdam.pro/) | [영상](https://www.youtube.com/watch?v=UCfE8hISmPw) |
 
 </div>
