@@ -52,20 +52,20 @@
 
 ## 🚀 Projects
 
-| 프로젝트 | 개요 | 역할 | 링크 |
-|----------|------|------|------|
-| **W.A.D** 💬 | ChatGPT 기반 개발 초보자 커뮤니티 | Frontend | [링크](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/) |
-| **COSLOW** 🥗 | 저속노화 식단 챌린지 | Frontend | [링크](https://coslow-n1wllud5k-no4hs-projects.vercel.app/) |
-| **RISEUP** 🎉 | 학교 축제 홍보 페이지 | Frontend | [링크](https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/) |
-| **APT** 📱 | 관심사 기반 AI 활동 서비스 & 다이어리 | Frontend, Backend (PM) | [링크](https://apt-28s6ff0mb-no4hs-projects.vercel.app/) |
-| **P-EETING** 🤝 | 프리랜서 협업 웹서비스 | Frontend, Backend, 디자인 (PM) | [링크](https://peeting-5f69fb087-no4hs-projects.vercel.app/) |
-| **멋사 13기 모집 페이지** 🦁 | 아기사자 모집 웹서비스 | Frontend | [링크](https://syu-likelion.org/) |
-| **Th!nkTr!p** 🧳 | 생성형 AI 여행 추천 서비스 | Frontend, 디자인 (PM) | [링크](https://thinktrip.site/) |
-| **BriefLog** 🎙️ | 회의 녹음 및 AI 요약 어플 | Backend, 디자인 | [링크](https://brief-log-frontend.vercel.app/) |
-| **MEDICON** | 의료 영상 조회/분석 서비스 | Frontend, 기획·디자인 | [링크](https://github.com/orgs/pj-2025-med/repositories) |
-| **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [링크](https://www.chonsre.org/) |
-| **PeakTime** | 학교 축제 페이지 | Frontend | [링크](https://github.com/No4hh4oN/Peaktime) |
-| **잡담** | 사회초년생 사회생활 도우미 | Frontend | [링크](https://www.jobdam.pro/) |
+| 프로젝트 | 개요 | 역할 | 링크 | 시연영상 |
+|----------|------|------|------|-----------|
+| **W.A.D** 💬 | ChatGPT 기반 개발 초보자 커뮤니티 | Frontend | [서비스](https://wad-uglylion.vercel.app/) | [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U) |
+| **COSLOW** 🥗 | 저속노화 식단 챌린지 | Frontend | [GitHub](https://github.com/No4hh4oN/COSLOW) | - |
+| **RISEUP** 🎉 | 학교 축제 홍보 페이지 | Frontend | [서비스](https://syu-2024-festival.vercel.app/) | - |
+| **APT** 📱 | 관심사 기반 AI 활동 서비스 & 다이어리 | Frontend, Backend (PM) | [서비스](https://apt-28s6ff0mb-no4hs-projects.vercel.app/) | [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view) |
+| **P-EETING** 🤝 | 프리랜서 협업 웹서비스 | Frontend, Backend, 디자인 (PM) | [서비스](https://peeting-5f69fb087-no4hs-projects.vercel.app/) | [영상](https://drive.google.com/file/d/1-KUzs2E0n3kQOfm_Y63wNCnEzfkYI1Q2/view?usp=drive_link) |
+| **멋사 13기 모집 페이지** 🦁 | 아기사자 모집 웹서비스 | Frontend | [서비스](https://syu-likelion.org/) | - |
+| **Th!nkTr!p** 🧳 | 생성형 AI 여행 추천 서비스 | Frontend, 디자인 (PM) | [서비스](https://thinktrip.site/) | [영상](https://youtu.be/Hc9UBYOXqIk) |
+| **BriefLog** 🎙️ | 회의 녹음 및 AI 요약 어플 | Backend, 디자인 | [서비스](https://brief-log-frontend.vercel.app/) | [영상](https://drive.google.com/file/d/1-HMKZGJKrzzMFQRVfCwt98nkup7zixPL/view?usp=drive_link) |
+| **MEDICON** | 의료 영상 조회/분석 서비스 | Frontend, 기획·디자인 | [GitHub](https://github.com/orgs/pj-2025-med/repositories) | - |
+| **촌스레** | 시골 감성 여행 큐레이션 플랫폼 | Frontend | [서비스](https://www.chonsre.org/) | - |
+| **PeakTime** | 학교 축제 페이지 | Frontend | [GitHub](https://github.com/No4hh4oN/Peaktime) | - |
+| **잡담** | 사회초년생 사회생활 도우미 | Frontend | [서비스](https://www.jobdam.pro/) | [영상](https://www.youtube.com/watch?v=UCfE8hISmPw) |
 
 </div>
 
