@@ -1,8 +1,9 @@
 <!-- Profile Title -->
 <h1 align="left">장준익 (Chang Junik) — Noah</h1>
 <p align="left">
-  <b>Frontend Developer</b> · React · TypeScript · Next.js<br/>
-  사용자 여정을 데이터로 검증하고, 성능과 배포 안정성에 집착합니다.
+  <b>Frontend Developer</b> · React · JavaScript · Next.js · TypeScript<br/>
+  단순히 화면을 구현하는 개발자가 아니라, 사용자가 느끼는 모든 경험을 설계하는 프론트엔드 개발자입니다.<br/>
+  프론트엔드는 저에게 기술 이상의 의미입니다. 디자인, 사람, 그리고 코드가 만나는 지점, 그 교차로에서 좋은 경험을 형태로 만드는 일을 하고 있습니다.
 </p>
 
 <!-- Quick Links (Badges kept) -->
@@ -19,9 +20,19 @@
 ---
 
 ## About
-- 🏫 삼육대학교 컴퓨터공학과 (20)
-- 🦁 멋쟁이사자처럼 13기 프론트엔드 운영진 (~2025.12) / 12기 프론트엔드 (~2024.12)
-- 현재 관심사: **React 18 성능 최적화**, **Next.js App Router 설계**, **CI/CD & 배포 안정화**
+👨‍💻 **Computer Engineering Department, Sahmyook University**  
+🎓 **Software Major**
+
+- **정보처리기사 취득** (2025.09)
+
+- **LikeLion 12th** (2024.03 - 2024.12)  
+  - 직책 : 프론트엔드 부원
+  - 활동 :  HTML, CSS 기초, JS(ES6+) 활용 실습 진행 / 중앙 해커톤, 연합 해커톤 팀장 참여
+- **LikeLion 13th** (2024.12 - 2025.12)  
+  - 직책 : 프론트엔드 운영진
+  - 활동 : 모집 페이지 프로젝트, 부원 모집 및 면접 진행 , CSS,JavaScript 세션 진행, 중앙 해커톤 멘토 참여 등  
+- **2025-1 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정** (2024.12 ~ 2025.09)  
+  - 활동 : 1차 프로젝트(P-eeting) , 2차 프로젝트(BriefLog) , 3차 프로젝트(Medicon) 진행    
 
 ---
 
