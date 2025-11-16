@@ -8,7 +8,9 @@
 
 <!-- Quick Links (Badges kept) -->
 <p align="left">
-  
+  <a href="https://www.no4hh4on.me/">
+    <img src="https://img.shields.io/badge/No4hh4oN-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:no4h1209@gmail.com">
     <img src="https://img.shields.io/badge/no4h1209@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
