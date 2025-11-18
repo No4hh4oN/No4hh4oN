@@ -72,7 +72,7 @@
 ### 2) PEAK;TIME — 학교 축제 페이지
 - **역할**: Frontend  
 - **핵심**: 정적 자원 최적화, 이미지 프리로드, 접근성 점검  
-- **성과**: 가입자수 약 240명, 트래픽 5만 수용
+- **성과**: 가입자수 약 240명, 트래픽 4천 수용
 - **링크**: [서비스](https://www.syu-festival.site/)
 
 ### 3) 잡담 — 사회초년생 사회생활 도우미
@@ -90,16 +90,14 @@
 <details>
   <summary><b>More Projects</b></summary>
 
-- COSLOW — 저속노화 식단 챌린지: [GitHub](https://github.com/No4hh4oN/COSLOW)
 - RISEUP — 학교 축제 홍보: [서비스](https://syu-2024-festival.vercel.app/)
-- APT — AI 활동 & 다이어리: [서비스](https://apt-28s6ff0mb-no4hs-projects.vercel.app/) · [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view)
 - 멋사 13기 모집 페이지: [서비스](https://syu-likelion.org/)
-- P-EETING — 프리랜서 협업: [서비스](https://peeting-5f69fb087-no4hs-projects.vercel.app/) · [영상](https://drive.google.com/file/d/1-KUzs2E0n3kQOfm_Y63wNCnEzfkYI1Q2/view?usp=drive_link)
+- COSLOW — 저속노화 식단 챌린지: [GitHub](https://github.com/No4hh4oN/COSLOW)
+- APT — AI 활동 & 다이어리: [서비스](https://apt-28s6ff0mb-no4hs-projects.vercel.app/) · [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view)
 - Th!nkTr!p — AI 여행 추천: [서비스](https://thinktrip.site/) · [영상](https://youtu.be/Hc9UBYOXqIk)
+- P-EETING — 프리랜서 협업: [서비스](https://peeting-5f69fb087-no4hs-projects.vercel.app/) · [영상](https://drive.google.com/file/d/1-KUzs2E0n3kQOfm_Y63wNCnEzfkYI1Q2/view?usp=drive_link)
 - BriefLog — 회의 녹음/요약: [서비스](https://brief-log-frontend.vercel.app/) · [영상](https://drive.google.com/file/d/1-HMKZGJKrzzMFQRVfCwt98nkup7zixPL/view?usp=drive_link)
 - MEDICON — 의료 영상 분석: [GitHub](https://github.com/orgs/pj-2025-med/repositories)
-- 멋대 12기 중앙 해커톤 COSLOW: [GitHub](https://github.com/No4hh4oN/COSLOW)
-- PeakTime(초기 버전) 기록: [서비스](https://www.syu-festival.site/)
 </details>
 
 ---
