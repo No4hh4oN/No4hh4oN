@@ -65,26 +65,22 @@
 
 ### 1) W.A.D — 개발 초보자 커뮤니티 (ChatGPT 기반)
 - **역할**: Frontend  
-- **핵심**: AI 대화 상태/흐름 관리, 입력 UX, 배포 파이프라인  
 - **성과**: 우수상 수상
 - **링크**: [서비스](https://wad-uglylion.vercel.app/) · [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U)
 
 ### 2) PEAK;TIME — 학교 축제 페이지
 - **역할**: Frontend  
-- **핵심**: 정적 자원 최적화, 이미지 프리로드, 접근성 점검  
 - **성과**: 가입자수 약 240명, 트래픽 4천 수용
 - **링크**: [서비스](https://www.syu-festival.site/)
 
 ### 3) 잡담 — 사회초년생 사회생활 도우미
-- **역할**: Frontend  
-- **핵심**: 폼/유효성, API 에러 핸들링, 성능 튜닝  
+- **역할**: Frontend
 - **성과**: 우수상 수상
 - **링크**: [서비스](https://www.jobdam.pro/) · [영상](https://www.youtube.com/watch?v=UCfE8hISmPw)
 
 ### 4) 촌스레 — 시골 감성 여행 큐레이션
 - **역할**: Frontend  
-- **핵심**: 관광데이터 연동, 리스트/필터 UX, 배포 안정화  
-- **성과**: 심사대기중
+- **성과**: 제안서 통과
 - **링크**: [서비스](https://www.chonsre.org/)
 
 <details>
