@@ -6,19 +6,6 @@
   프론트엔드는 저에게 기술 이상의 의미입니다. 디자인, 사람, 그리고 코드가 만나는 지점, 그 교차로에서 좋은 경험을 형태로 만드는 일을 하고 있습니다.
 </p>
 
-<!-- Quick Links (Badges kept) -->
-<p align="left">
-  <a href="https://www.no4hh4on.me/">
-    <img src="https://img.shields.io/badge/No4hh4oN-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:no4h1209@gmail.com">
-    <img src="https://img.shields.io/badge/no4h1209@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@no4hh4on/posts">
-    <img src="https://img.shields.io/badge/Velog-@no4hh4on-20C997?style=flat&logo=velog&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -34,7 +21,7 @@
   - 직책 : 프론트엔드 운영진
   - 활동 : 모집 페이지 프로젝트, 부원 모집 및 면접 진행 , CSS,JavaScript 세션 진행, 중앙 해커톤 멘토 참여 등  
 - **영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정** (2024.12 ~ 2025.09)  
-  - 활동 : 1차 프로젝트(P-eeting) , 2차 프로젝트(BriefLog) , 3차 프로젝트(Medicon) 진행    
+  - 활동 : 1차 프로젝트(P-eeting) , 2차 프로젝트(BriefLog) , 3차 프로젝트(Medicon)    
 
 ---
 
@@ -104,8 +91,8 @@
 | 2024.07 | 2024 교내 SW경진대회 | W.A.D | 우수상 |
 | 2024.08 | 멋대 12기 중앙 해커톤 | COSLOW | - |
 | 2024.11 | 간지톤 : PYTHON | APT | - |
-| 2025.05 | TOURAPI 관광데이터 공모전 | 촌스레 | 1차 제안서 통과 |
-| 2025.08 | 2025 교내 SW경진대회 | 잡담 | 우수상 |
+| 2025.10 | TOURAPI 관광데이터 공모전 | 촌스레 | 제안서 통과 |
+| 2025.10 | 2025 교내 SW경진대회 | 잡담 | 우수상 |
 
 ---
 
