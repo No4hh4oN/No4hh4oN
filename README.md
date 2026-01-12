@@ -48,32 +48,28 @@
 
 ---
 
-## 🚀 Featured Projects (Top 4)
+## 🚀 Featured Projects (Top 3)
 
-### 1) W.A.D — 개발 초보자 커뮤니티 (ChatGPT 기반)
-- **역할**: Frontend  
+### 1) 잡담 — 사회초년생 사회생활 도우미 AI
+- **역할**: Frontend
 - **성과**: 우수상 수상
-- **링크**: [서비스](https://wad-uglylion.vercel.app/) · [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U)
+- **링크**: [서비스](https://www.jobdam.pro/) · [영상](https://www.youtube.com/watch?v=UCfE8hISmPw)
 
 ### 2) PEAK;TIME — 학교 축제 페이지
 - **역할**: Frontend  
 - **성과**: 가입자수 약 240명, 트래픽 4천 수용
 - **링크**: [서비스](https://www.syu-festival.site/)
 
-### 3) 잡담 — 사회초년생 사회생활 도우미
-- **역할**: Frontend
-- **성과**: 우수상 수상
-- **링크**: [서비스](https://www.jobdam.pro/) · [영상](https://www.youtube.com/watch?v=UCfE8hISmPw)
-
-### 4) 촌스레 — 시골 감성 여행 큐레이션
+### 3) 촌스레 — 시골 감성 여행 큐레이션
 - **역할**: Frontend  
 - **성과**: 제안서 통과
-- **링크**: [서비스](https://www.chonsre.org/)
+- **링크**: [영상](https://www.youtube.com/watch?v=-60S94tWM14)
 
 <details>
   <summary><b>More Projects</b></summary>
 
 - RISEUP — 학교 축제 홍보: [서비스](https://syu-2024-festival.vercel.app/)
+-  W.A.D — 개발 초보자 커뮤니티(우수상) : [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U)
 - 멋사 13기 모집 페이지: [서비스](https://syu-likelion.org/)
 - COSLOW — 저속노화 식단 챌린지: [GitHub](https://github.com/No4hh4oN/COSLOW)
 - APT — AI 활동 & 다이어리: [서비스](https://apt-28s6ff0mb-no4hs-projects.vercel.app/) · [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view)
