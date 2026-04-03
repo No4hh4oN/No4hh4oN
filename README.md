@@ -2,14 +2,12 @@
 <h1 align="left">장준익 (Chang Junik) — Noah</h1>
 <p align="left">
   <b>Frontend Developer</b> · React · JavaScript · Next.js · TypeScript<br/>
-  단순히 화면을 구현하는 개발자가 아니라, 사용자가 느끼는 모든 경험을 설계하는 프론트엔드 개발자입니다.<br/>
-  프론트엔드는 저에게 기술 이상의 의미입니다. 디자인, 사람, 그리고 코드가 만나는 지점, 그 교차로에서 좋은 경험을 형태로 만드는 일을 하고 있습니다.
 </p>
 
 ---
 
 ## About
-👨‍💻 **Computer Engineering Department, Sahmyook University**  
+👨‍💻 **Computer Engineering Department**  
 🎓 **Software Major**
 
 - **정보처리기사 취득** (2025.09)
@@ -84,11 +82,11 @@
 ## 🏆 Competition Experience
 | 날짜 | 대회 | 프로젝트 | 수상 |
 |------|------|---------|-----|
-| 2024.07 | 2024 교내 SW경진대회 | W.A.D | 우수상 |
-| 2024.08 | 멋대 12기 중앙 해커톤 | COSLOW | - |
-| 2024.11 | 간지톤 : PYTHON | APT | - |
+| 2025.10 | 2025 SW경진대회 | 잡담 | 우수상 |
 | 2025.10 | TOURAPI 관광데이터 공모전 | 촌스레 | 제안서 통과 |
-| 2025.10 | 2025 교내 SW경진대회 | 잡담 | 우수상 |
+| 2024.11 | 간지톤 : PYTHON | APT | - |
+| 2024.08 | 멋대 12기 중앙 해커톤 | COSLOW | - |
+| 2024.07 | 2024 SW경진대회 | W.A.D | 우수상 |
 
 ---
 
