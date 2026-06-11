@@ -3,29 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:111827,100:2563EB\&height=230\&section=header\&text=Chang%20Junik%20%7C%20Noah\&fontSize=42\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=36\&desc=AI%20Agent%20Engineer%20%7C%20Applied%20AI%20%2B%20Frontend\&descSize=16\&descAlignY=57)
 
 <h1 align="left">장준익 (Chang Junik) — Noah</h1>
-
 <p align="left">
-  <b>AI Agent Engineer</b> · Applied AI · RAG · MCP · Python · React · Next.js
+  🎓 <b>Computer Engineering Department - Software Major</b>(2020.03 ~ 2026.02)<br/>
+  🪪 <b>정보처리기사</b> (2025.09)
 </p>
 
-<!-- <p align="left">
-  <a href="mailto:no4h1209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-no4h1209%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/No4hh4oN">
-    <img src="https://img.shields.io/badge/GitHub-No4hh4oN-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@no4hh4on/posts">
-    <img src="https://img.shields.io/badge/Velog-no4hh4on-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </a>
-</p> -->
-
----
-
 ## About
-
-🎓 **Computer Engineering Department - Software Major**<br>
-🪪 **정보처리기사** (2025.09)
 
 * **Metanet 채용 연계 AIE_JUMP_START 교육과정 수강중** (2026.02.24 - 2026.08.14)
 
@@ -47,8 +30,6 @@
   * 직책 : 프론트엔드 부원
   * 활동 : HTML, CSS 기초, JS(ES6+) 활용 실습 진행 / 중앙 해커톤, 연합 해커톤 팀장 참여
 
----
-
 ## Introduce
 
 AI를 단순한 코드 생성 도구가 아니라, **문제 분석 · 설계 대안 검증 · 서비스 자동화 흐름을 빠르게 실험하는 도구**로 활용합니다.
@@ -57,9 +38,10 @@ AI를 단순한 코드 생성 도구가 아니라, **문제 분석 · 설계 대
 
 특히 LLM 응답 흐름 제어, 사용자 입력 데이터 구조화, 관리자 기능 설계, 대시보드 시각화처럼 **AI 기능이 실제 서비스 안에서 안정적으로 동작하는 구조**에 관심이 있습니다.
 
+
 ---
 
-## 🔨 Tech Stack
+## Tech Stack
 
 ### AI / Agent
 
@@ -121,7 +103,7 @@ AI를 단순한 코드 생성 도구가 아니라, **문제 분석 · 설계 대
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1) 잡담 — 사회초년생 사회생활 도우미 AI
 
@@ -309,7 +291,7 @@ AI를 단순한 코드 생성 도구가 아니라, **문제 분석 · 설계 대
 
 ---
 
-## 🏆 Competition Experience
+## Competition Experience
 
 | 날짜      | 대회                | 프로젝트   | 결과     |
 | ------- | ----------------- | ------ | ------ |
