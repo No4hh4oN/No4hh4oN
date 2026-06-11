@@ -152,142 +152,27 @@ AI를 단순한 코드 생성 도구가 아니라, **문제 분석 · 설계 대
   * 동아리 운영 데이터를 서비스 내부에서 관리할 수 있도록 관리자 플로우 설계
 * **Tech** : Next.js, TypeScript, TailwindCSS
 
-<hr>
-
 <details>
   <summary><b>More Projects</b></summary>
 
 <br/>
 
-### PEAK;TIME — 학교 축제 페이지
-
-* **역할** : Frontend
-* **성과** : 가입자수 약 240명, 트래픽 4천 수용
-* **핵심 기여**
-
-  * 지도 기반 부스 탐색 UI 구현
-  * 공지사항/긴급공지 렌더링 구조 설계
-  * 축제 운영 기간 내 안정적 서비스 제공
-* **Link** : [서비스](https://www.syu-festival.site/)
-
----
-
-### 촌스레 — 시골 감성 여행 큐레이션
-
-* **역할** : Frontend / Team Lead
-* **성과** : TOURAPI 관광데이터 공모전 제안서 통과
-* **핵심 기여**
-
-  * 추천 코스 편집 UX 설계
-  * Drag & Drop 기반 여행 일정 정렬
-  * Kakao Map 기반 장소 시각화 및 좌표 데이터 캐싱
-* **Link** : [영상](https://www.youtube.com/watch?v=-60S94tWM14)
-
----
-
-### RISEUP — 학교 축제 홍보
-
-* **역할** : Frontend
-* **Link** : [서비스](https://syu-2024-festival.vercel.app/)
-
----
-
-### W.A.D — 개발 초보자 커뮤니티
-
-* **역할** : Frontend
-* **성과** : 2024 SW경진대회 우수상
-* **핵심 기여**
-
-  * 클라이언트 데이터 로딩 전략 설계
-  * 필터링/페이지네이션을 클라이언트 연산으로 처리
-  * API 호출량 절감 및 페이지 전환 지연 제거
-* **Link** : [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U)
-
----
-
-### 멋사 13기 모집 페이지
-
-* **역할** : Frontend
-* **핵심 기여**
-
-  * PC/Mobile Root 분리 렌더링 구조 설계
-  * 날짜 기반 모집 상태 자동 분기
-  * SVG Path 기반 인터랙션 애니메이션 구현
-* **Link** : [서비스](https://syu-likelion.org/)
-
----
-
-### COSLOW — 저속노화 식단 챌린지
-
-* **역할** : Frontend
-* **핵심 기여**
-
-  * 식단 인증 이미지 업로드
-  * S3 Presigned URL 기반 클라이언트 직접 업로드 구조 설계
-  * Kakao OAuth 로그인 리다이렉트 처리
-* **Link** : [GitHub](https://github.com/No4hh4oN/COSLOW)
-
----
-
-### APT — AI 활동 & 다이어리
-
-* **역할** : Frontend / Team Lead
-* **핵심 기여**
-
-  * GPT API 기반 사용자 관심사·연령별 활동 추천
-  * Firebase Auth / Firestore / Storage 연동
-  * 모바일 중심 카드 스와이프, 모달, 슬라이더 UI 구현
-* **Link** : [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view)
-
----
-
-### Th!nkTr!p — AI 여행 추천
-
-* **역할** : Frontend / Team Lead
-* **핵심 기여**
-
-  * OpenAI API 기반 여행 일정 생성 플로우 구현
-  * Next.js API Route 기반 LLM 요청 처리
-  * Toast UI Editor 기반 마크다운 일정/다이어리 작성 기능 구현
-* **Link** : [영상](https://youtu.be/Hc9UBYOXqIk)
-
----
-
-### P-EETING — 프리랜서 협업
-
-* **역할** : Frontend / Team Lead
-* **핵심 기여**
-
-  * 프론트엔드 구조 설계
-  * Firebase Firestore 기반 MVP 데이터 구조 구성
-  * 팀 온보딩을 위한 문서·코드 템플릿 정리
-* **Link** : [영상](https://drive.google.com/file/d/1-KUzs2E0n3kQOfm_Y63wNCnEzfkYI1Q2/view?usp=drive_link)
-
----
-
-### BriefLog — 회의 녹음/요약
-
-* **역할** : Backend / Team Lead
-* **핵심 기여**
-
-  * ERD 설계
-  * JWT 인증 기반 API 구현
-  * AWS EC2 / RDS / Route53 기반 배포
-* **Link** : [영상](https://drive.google.com/file/d/1-HMKZGJKrzzMFQRVfCwt98nkup7zixPL/view?usp=drive_link)
-
----
-
-### MEDICON — 의료 영상 분석
-
-* **역할** : Frontend
-* **핵심 기여**
-
-  * 의료 영상 DICOM 뷰어 UI 구현
-  * Cornerstone.js 기반 뷰어 학습 및 적용
-  * 검사 데이터 탐색 중심 사용자 흐름 구성
-* **Link** : [GitHub](https://github.com/orgs/pj-2025-med/repositories)
+| Project           | Description                   | Role                 | Tech                                        | Link                                                                                        |
+| ----------------- | ----------------------------- | -------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **PEAK;TIME**     | 학교 축제 정보 제공 및 부스 탐색 서비스       | Frontend             | React, JavaScript, Vercel                   | [서비스](https://www.syu-festival.site/)                                                       |
+| **촌스레**           | 전라남도 시골 감성 여행 일정 추천 서비스       | Frontend / Team Lead | React, JavaScript, Kakao Maps, dnd-kit      | [영상](https://www.youtube.com/watch?v=-60S94tWM14)                                           |
+| **RISEUP**        | 학교 축제 홍보 페이지                  | Frontend             | React, JavaScript, Vercel                   | [서비스](https://syu-2024-festival.vercel.app/)                                                |
+| **W.A.D**         | 개발 입문자 대상 커뮤니티 서비스            | Frontend             | React, JavaScript, AWS S3·CloudFront        | [영상](https://www.youtube.com/watch?v=SQxkXWdHU7U)                                           |
+| **멋사 13기 사이트** | 동아리 소개 및 신입 부원 모집 페이지         | Frontend             | React, JavaScript, Framer Motion, SVG API   | [서비스](https://syu-likelion.org/)                                                            |
+| **COSLOW**        | 저속노화 식단 챌린지 서비스               | Frontend             | React, JavaScript, AWS S3                   | [GitHub](https://github.com/No4hh4oN/COSLOW)                                                |
+| **APT**           | 자녀 관심사 기반 AI 활동 추천 및 다이어리 서비스 | Frontend / Team Lead | React, JavaScript, Firebase, GPT API        | [영상](https://drive.google.com/file/d/1Ugq8QfVGL0KyWVcImlSYbSfhw56_zy3M/view)                |
+| **Th!nkTr!p**     | LLM 기반 AI 여행 일정 추천 서비스        | Frontend / Team Lead | Next.js, TypeScript, OpenAI API, Kakao Maps | [영상](https://youtu.be/Hc9UBYOXqIk)                                                          |
+| **P-EETING**      | 프리랜서 협업 및 프로젝트 매칭 서비스         | Frontend / Team Lead | React, JavaScript, Firebase Firestore       | [영상](https://drive.google.com/file/d/1-KUzs2E0n3kQOfm_Y63wNCnEzfkYI1Q2/view?usp=drive_link) |
+| **BriefLog**      | 회의 녹음 STT 및 요약 서비스            | Backend / Team Lead  | Spring Boot, MySQL, JWT, AWS EC2            | [영상](https://drive.google.com/file/d/1-HMKZGJKrzzMFQRVfCwt98nkup7zixPL/view?usp=drive_link) |
+| **MEDICON**       | 의료 영상 DICOM 뷰어 서비스            | Frontend             | React, TypeScript, Cornerstone.js           | [GitHub](https://github.com/orgs/pj-2025-med/repositories)                                  |
 
 </details>
+
 
 ---
 
